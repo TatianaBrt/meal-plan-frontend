@@ -7,9 +7,7 @@
 
 
 ## Features
-This project implements timer and countdown :
-* used function setInterval
-* used function clearinterval
+This project implements backend and fontend.
 
 
 ## Preview
