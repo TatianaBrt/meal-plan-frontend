@@ -8,6 +8,8 @@
 
 ## Features
 This project implements backend and fontend.
+Created and used a database in MongoDB.
+Used POSTMAN.
 
 
 ## Preview
